@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name" translatable="true">PizzeriaDos</string>
+    <string name="pedido_pizzeria_call123x" translatable="true">Order Pizzeria Call123X</string>
+    <string name="introduce_los_ingredientes_que_quiera_en_la_pizza" translatable="true">Check your ingredients :</string>
+    <string name="champinones" translatable="true">Mushrooms</string>
+    <string name="extra_de_mozarella" translatable="true">Mozarella</string>
+    <string name="pepino" translatable="true">Cucumber</string>
+    <string name="pina" translatable="true">Pineapple</string>
+    <string name="aceitunas" translatable="true">Olives</string>
+    <string name="atun" translatable="true">Tuna</string>
+    <string name="reparto_a_domicilio" translatable="true">Delivery</string>
+    <string name="recogida_en_tienda" translatable="true">pick up in local</string>
+    <string name="Confirmacion" translatable="true">Validation</string>
+    <string name="Desea_validar" translatable="true">¿Wish validate your order?</string>
+    <string name="si" translatable="true">yes</string>
+    <string name="Validado" translatable="true">Validate</string>
+    <string name="no" translatable="true">no</string>
+    <string name="pedido_cancelado" translatable="true">Canceled Order</string>
+    <string name="Acerca_de" translatable="true">Info of app</string>
+    <string name="Inicio_app" translatable="true">Start app</string>
+    <string name="Enlace_Web" translatable="true">link</string>
+    <string name="share_action" translatable="true">Share</string>
+</resources>

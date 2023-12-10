@@ -1,23 +1,23 @@
 <resources>
-    <string name="app_name">PizzeriaDos</string>
-    <string name="pedido_pizzeria_call123x">Pedido Pizzeria Call123X</string>
-    <string name="introduce_los_ingredientes_que_quiera_en_la_pizza">Introduce los ingredientes que quiera en la pizza :</string>
-    <string name="champinones">Champiñones</string>
-    <string name="extra_de_mozarella">Mozarella</string>
-    <string name="pepino">Pepino</string>
-    <string name="pina">Piña</string>
-    <string name="aceitunas">Aceitunas</string>
-    <string name="atun">Atún</string>
-    <string name="reparto_a_domicilio">Reparto a domicilio</string>
-    <string name="recogida_en_tienda">Recogida en Tienda</string>
-    <string name="Confirmacion">Confirmacion</string>
-    <string name="Desea_validar">¿Desea Validar el Pedido?</string>
-    <string name="si">si</string>
-    <string name="Validado">Validado</string>
-    <string name="no">no</string>
-    <string name="pedido_cancelado">Pedido Cancelado</string>
-    <string name="Acerca_de">Acerca de la Aplicación</string>
-    <string name="Inicio_app">Inicio app</string>
-    <string name="Enlace_Web">Enlace</string>
-    <string name="share_action">Compartir</string>
+    <string name="app_name" translatable="true">PizzeriaDos</string>
+    <string name="pedido_pizzeria_call123x" translatable="true">Pedido Pizzeria Call123X</string>
+    <string name="introduce_los_ingredientes_que_quiera_en_la_pizza" translatable="true">Introduce los ingredientes que quiera en la pizza :</string>
+    <string name="champinones" translatable="true">Champiñones</string>
+    <string name="extra_de_mozarella" translatable="true">Mozarella</string>
+    <string name="pepino" translatable="true">Pepino</string>
+    <string name="pina" translatable="true">Piña</string>
+    <string name="aceitunas" translatable="true">Aceitunas</string>
+    <string name="atun" translatable="true">Atún</string>
+    <string name="reparto_a_domicilio" translatable="true">Reparto a domicilio</string>
+    <string name="recogida_en_tienda" translatable="true">Recogida en Tienda</string>
+    <string name="Confirmacion" translatable="true">Confirmacion</string>
+    <string name="Desea_validar" translatable="true">¿Desea Validar el Pedido?</string>
+    <string name="si" translatable="true">si</string>
+    <string name="Validado" translatable="true">Validado</string>
+    <string name="no" translatable="true">no</string>
+    <string name="pedido_cancelado" translatable="true">Pedido Cancelado</string>
+    <string name="Acerca_de" translatable="true">Acerca de la Aplicación</string>
+    <string name="Inicio_app" translatable="true">Inicio app</string>
+    <string name="Enlace_Web" translatable="true">Enlace</string>
+    <string name="share_action" translatable="true">Compartir</string>
 </resources>
