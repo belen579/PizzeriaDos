@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">PizzeriaDos</string>
+    <string name="pedido_pizzeria_call123x">Pedido Pizzeria Call123X</string>
+    <string name="introduce_los_ingredientes_que_quiera_en_la_pizza">Introduce los ingredientes que quiera en la pizza :</string>
+    <string name="champinones">Champiñones</string>
+    <string name="extra_de_mozarella">Mozarella</string>
+    <string name="pepino">Pepino</string>
+    <string name="pina">Piña</string>
+    <string name="aceitunas">Aceitunas</string>
+    <string name="atun">Atún</string>
+    <string name="reparto_a_domicilio">Reparto a domicilio</string>
+    <string name="recogida_en_tienda">Recogida en Tienda</string>
+    <string name="Confirmacion">Confirmacion</string>
+    <string name="Desea_validar">¿Desea Validar el Pedido?</string>
+    <string name="si">si</string>
+    <string name="Validado">Validado</string>
+    <string name="no">no</string>
+    <string name="pedido_cancelado">Pedido Cancelado</string>
+    <string name="Acerca_de">Acerca de la Aplicación</string>
+    <string name="Inicio_app">Inicio app</string>
+    <string name="Enlace_Web">Enlace</string>
+    <string name="share_action">Compartir</string>
+</resources>
