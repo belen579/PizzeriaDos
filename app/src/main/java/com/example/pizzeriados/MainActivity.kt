@@ -124,10 +124,6 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra("Ticket",ticketenviar )
             startActivity(intent)
 
-
-
-
-
             dialog.dismiss()
         }
 

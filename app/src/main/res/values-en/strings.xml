@@ -13,7 +13,7 @@
     <string name="reparto_a_domicilio" translatable="true">Delivery</string>
     <string name="recogida_en_tienda" translatable="true">pick up in local</string>
     <string name="Confirmacion" translatable="true">Validation</string>
-    <string name="Desea_validar" translatable="true">¿Wish validate your order?</string>
+    <string name="Desea_validar" translatable="true">¿Do you want to validate your order?</string>
     <string name="si" translatable="true">yes</string>
     <string name="Validado" translatable="true">Validate</string>
     <string name="no" translatable="true">no</string>
