@@ -124,7 +124,7 @@ class MainActivity : AppCompatActivity() {
             intent.putExtra("Ticket",ticketenviar )
             startActivity(intent)
 
-         //   limpiar()
+
 
 
 
